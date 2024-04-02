@@ -57,7 +57,7 @@ Included comments throughout the code to explain logic and documented project se
 
 1. Clone the repository:
 ```bash
-git clone [<repository_url>](https://github.com/knull23/BLOG-WEB-APPLICATION.git)
+git clone https://github.com/knull23/BLOG-WEB-APPLICATION.git
 ```
 2. Install the dependencies:
 ```bash
