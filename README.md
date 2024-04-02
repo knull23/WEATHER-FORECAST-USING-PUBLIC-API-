@@ -13,7 +13,7 @@ In this project, I built a website using Express/Node.js platform and integrated
 - Improve skills in client-server communication using Axios.
 - Demonstrate ability to manipulate and present data retrieved from APIs effectively.
 
-## Feautures
+## Features
 -Check weather forecast for any city
 -Responsive design with Bootstrap
 -Uses OpenWeatherMap API for weather data
