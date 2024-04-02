@@ -1,0 +1,115 @@
+
+/* Body Text Styles */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fee1ba; /* Light beige */
+    color: #9B3922; /* Reddish brown */
+    font-family: 'Montserrat', sans-serif;
+}
+body p, body h1, body label {
+    color: #9B3922; /* Orange */
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Header Styles */
+.header {
+    background-color: #0C0C0C; /* Dark grey */
+    color: #F2613F; /* Orange */
+    font-family: 'Montserrat', sans-serif; /* Font: Roboto */
+    padding: 20px 0; /* Add padding to the top and bottom */
+    margin-bottom: 0; /* Remove margin at the bottom */
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F2613F; /* Orange */
+    margin-right: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #F2613F; /* Orange */
+    font-family: 'Montserrat', sans-serif; /* Font: Roboto */
+}
+
+/* Check button */
+.check-button {
+    background-color: #F2613F; /* Orange */
+    color:#F9F6F2; /* White */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif; /* Font: Roboto */
+    font-size: 16px;
+}
+
+.check-button:hover {
+    background-color: #9B3922; /* Darker orange on hover */
+}
+
+/* Carousel Styles */
+.carousel {
+    margin: 20px auto; /* Center the carousel */
+    width: 80%; /* Adjust width as needed */
+}
+
+.carousel img {
+    width: 100%;
+    height: auto;
+}
+
+/* Message Paragraph Style */
+.message {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif; /* Font: Roboto */
+}
+
+/* Center the h1 tag */
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;/* Font: Roboto */
+    color: #F2613F; /* Orange */
+}
+
+footer {
+    background-color: #0C0C0C; /* Dark grey */
+    color: #F2613F; /* Orange */
+    font-family: 'Montserrat', sans-serif; /* Font: Roboto */
+    padding: 20px 0; /* Add padding to the top and bottom */
+    margin-top: 0; /* Remove margin at the top */
+    text-align: center; /* Center align the text */
+}
+
+footer p{
+    color: #F2613F;
+    font-family: 'Montserrat', sans-serif;
+}
