@@ -62,7 +62,7 @@ git clone https://github.com/knull23/BLOG-WEB-APPLICATION.git
 2. Install the dependencies:
 ```bash
    install npm init -y
-   install express ejs body-parser
+   install express ejs axios
    node index.js
 ```
 ## Contributions
